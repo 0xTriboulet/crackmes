@@ -24,11 +24,11 @@ generate(r)
 generate(t)
 
 print("generated...")
-print("q=", q)
-print("w=", w)
-print("e=", e)
-print("r=", r)
-print("t=", t)
+print("q=", q, end="\n\n")
+print("w=", w, end="\n\n")
+print("e=", e, end="\n\n")
+print("r=", r, end="\n\n")
+print("t=", t, end="\n\n")
 
 print("\n\nFiring the ion cannons...\n\n")
 
