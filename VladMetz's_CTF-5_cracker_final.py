@@ -55,5 +55,5 @@ for zero in range(126,33,-1):
                             key += chr(three)
                             key += chr(four)
                             key += chr(five)
-                            key += 'X|8vyy'
+                            key += 'X|8vyy' ## generate this with the suffix.py script if you want, though it's not necessary
                             print(key)
