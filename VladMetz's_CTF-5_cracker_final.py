@@ -43,7 +43,7 @@ for zero in range(126,33,-1):
                             print("five: ", five)
                             print()
 
-                        if (xmm2 == 733898.75): ## this is the weirdness types caused by python and C++ managing allocations differently
+                        if (xmm2 == 733898.75): ## this is the weirdness types caused by python and C++ managing ints/floats differently. Converting the hardcoded hex to a float in an online calculator will leak this value
                             if(flag == 0):
                                 print()
                                 print("*POSSIBLE* Valid cases found:")
