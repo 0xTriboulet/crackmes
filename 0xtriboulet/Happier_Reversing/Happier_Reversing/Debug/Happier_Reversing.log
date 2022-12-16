@@ -1,0 +1,66 @@
+﻿Environment at start of build:
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\0xtriboulet\AppData\Roaming
+ChocolateyInstall = C:\ProgramData\chocolatey
+ChocolateyLastPathUpdate = 133027238228899625
+ChocolateyToolsLocation = C:\Tools
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = DESKTOP-8NRM8MS
+ComSpec = C:\Windows\system32\cmd.exe
+DriverData = C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING = Default
+HOMEDRIVE = C:
+HOMEPATH = \Users\0xtriboulet
+LOCALAPPDATA = C:\Users\0xtriboulet\AppData\Local
+LOGONSERVER = \\DESKTOP-8NRM8MS
+Mingw32 = C:\MinGW\bin
+MSBuildLoadMicrosoftTargetsReadOnly = true
+nasm = C:\Users\0xtriboulet\AppData\Local\bin\NASM\nasm.exe
+NUMBER_OF_PROCESSORS = 8
+OneDrive = C:\Users\0xtriboulet\OneDrive
+OS = Windows_NT
+Path = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python37\Scripts\;C:\Python37\;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Boxstarter;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files(x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\;C:\ProgramData\chocolatey\bin;C:\Program Files\OpenJDK\openjdk-11.0.15_10\bin;C:\Program Files\010 Editor;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x64\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\PuTTY\;C:\Users\0xtriboulet\AppData\Local\bin\NASM\;C:\MinGW\bin;C:\Users\0xtriboulet\fasm;C:\Users\0xtriboulet\radare2\radare2-5.7.6-w64\bin;C:\Program Files\dotnet\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python37\Scripts\;C:\Python37\;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Boxstarter;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files(x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\;C:\ProgramData\chocolatey\bin;C:\Program Files\OpenJDK\openjdk-11.0.15_10\bin;C:\Program Files\010 Editor;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x64\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\PuTTY\;C:\Users\0xtriboulet\AppData\Local\bin\NASM\;C:\MinGW\bin;C:\Users\0xtriboulet\fasm;C:\Users\0xtriboulet\radare2\radare2-5.7.6-w64\bin;C:\Program Files\dotnet\;;C:\Users\0xtriboulet\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\0xtriboulet\.dotnet\tools
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+PkgDefApplicationConfigFile = C:\Users\0xtriboulet\AppData\Local\Microsoft\VisualStudio\16.0_594fba50\devenv.exe.config
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 9a03
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files (x86)
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSModulePath = C:\Users\0xtriboulet\Documents\WindowsPowerShell\Modules
+PUBLIC = C:\Users\Public
+RAW_TOOLS_DIR = C:\Tools
+ServiceHubLogSessionKey = 10E218F6
+SESSIONNAME = Console
+SystemDrive = C:
+SystemRoot = C:\Windows
+TEMP = C:\Users\0XTRIB~1\AppData\Local\Temp
+ThreadedWaitDialogDpiContext = -4
+TMP = C:\Users\0XTRIB~1\AppData\Local\Temp
+TOOL_LIST_DIR = C:\ProgramData\Microsoft\Windows\Start Menu\Programs\FLARE
+TOOL_LIST_SHORTCUT = C:\Users\0xtriboulet\Desktop\FLARE.lnk
+USERDOMAIN = DESKTOP-8NRM8MS
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-8NRM8MS
+USERNAME = 0xtriboulet
+USERPROFILE = C:\Users\0xtriboulet
+VisualStudioDir = C:\Users\0xtriboulet\Documents\Visual Studio 2019
+VisualStudioEdition = Microsoft Visual Studio Community 2019
+VisualStudioVersion = 16.0
+VM_COMMON_DIR = C:\ProgramData\FEVM
+VSAPPIDDIR = C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\
+VSAPPIDNAME = devenv.exe
+VSLANG = 1033
+VSSKUEDITION = Community
+windir = C:\Windows
+_NT_SYMBOL_PATH = symsrv*symsrv.dll*C:\symbols*http://msdl.microsoft.com/download/symbols
+
+  Happier_Reversing.cpp
+C:\Users\0xtriboulet\source\repos\Happier_Reversing\Happier_Reversing\Happier_Reversing.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+  Happier_Reversing.vcxproj -> C:\Users\0xtriboulet\source\repos\Happier_Reversing\Debug\Happier_Reversing.exe
