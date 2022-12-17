@@ -18,7 +18,7 @@ We can probably expect to find the key sometime after the “Enter the secret ke
 
 
 And if we look around memory we see that the string we want is nearby!
-“You key was correct!”
+“Your key was correct!”
  
  ![image](https://user-images.githubusercontent.com/22229087/208213076-be003828-cfa3-402d-8009-9503874afa56.png)
 
