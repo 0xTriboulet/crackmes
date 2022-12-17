@@ -24,11 +24,12 @@ string generate_key() {
 int main()
 {
     string inputString;
+    string compareMe = generate_key();
     std::cout << "Welcome to 0xTriboulet's Reversing Challenge #2!\n\n";
     std::cout << "Enter the secret key:";
     std::cin >> inputString;
 
-    if (inputString.compare(generate_key())) {
+    if (inputString.compare(compareMe)) {
         std::cout << "Your key was incorrect! Try again later :(";
     }
     else {
